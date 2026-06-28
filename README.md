@@ -5,5 +5,5 @@ to CSV and JSON formats using Python.
 
 ## Directories
 
-- ` Scripts that access employee data via a REST API and export itapi/` 
+- `api/` - Scripts that access employee data via a REST API and export it
   to different data structures.
